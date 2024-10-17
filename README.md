@@ -1,8 +1,17 @@
 <h1 style="text-align: center;">CodeParadox Club</h1>
 
-<div style="text-align: center;">
-  <img src="https://bg-so-1.zippyimage.com/2024/10/17/ec7c9f0c47ca0c1f770ebe667e8ec731.jpg" alt="Description" width="300">
-</div>
+<p align="center">
+  <a href="https://codeparadox.netlify.app/">
+    <img 
+      src="https://bg-so-1.zippyimage.com/2024/10/17/ec7c9f0c47ca0c1f770ebe667e8ec731.jpg" 
+      alt="aniwatch_logo" 
+      width="350" 
+      height="350"
+      decoding="async"
+      fetchpriority="high"
+    />
+  </a>
+</p>
 
 # PencodeLite
 
